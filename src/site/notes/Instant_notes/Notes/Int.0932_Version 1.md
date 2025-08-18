@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Instant_notes/Notes/Int.0932_Version 1/"}
 ---
 
+> 此文档描述了version 1的核心需求
 ## 需求描述 **Project Summary & Requirements: AI Writing Editor**
 
 #### **1. Core Objective & Guiding Philosophy**
